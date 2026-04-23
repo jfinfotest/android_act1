@@ -8,7 +8,7 @@ fun ejecutarBloque1() {
     println("\n=== BLOQUE 1: VARIABLES ===")
     
     // 1. Perfil de Usuario
-    int nombre = "Jhon"
+    val nombre = "Jhon"
     var ciudad = "Cali"
     println("1. Nombre: $nombre, Ciudad inicial: $ciudad")
     ciudad = "Medellín"
